@@ -1,0 +1,101 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Modern educational background",
+      "imageUrl": "https://picsum.photos/seed/luk1/1920/1080",
+      "imageHint": "education technology"
+    },
+    {
+      "id": "course-gen-ai",
+      "description": "Generative AI Mastery Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk_ai_mastery/600/400",
+      "imageHint": "artificial intelligence robot"
+    },
+    {
+      "id": "course-fullstack",
+      "description": "Full-Stack Web Development Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk_dev_master/600/400",
+      "imageHint": "coding laptop"
+    },
+    {
+      "id": "course-data-science",
+      "description": "Data Science for Beginners Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk_data_science/600/400",
+      "imageHint": "data graph"
+    },
+    {
+      "id": "course-ai",
+      "description": "AI Course Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk2/600/400",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "course-dev",
+      "description": "Software Development Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk3/600/400",
+      "imageHint": "coding programming"
+    },
+    {
+      "id": "course-marketing",
+      "description": "Digital Marketing Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk10/600/400",
+      "imageHint": "marketing strategy"
+    },
+    {
+      "id": "course-security",
+      "description": "Cybersecurity Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk11/600/400",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "course-data",
+      "description": "Data Science Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk12/600/400",
+      "imageHint": "data analysis"
+    },
+    {
+      "id": "course-blockchain",
+      "description": "Blockchain Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/luk13/600/400",
+      "imageHint": "blockchain technology"
+    },
+    {
+      "id": "blog-1",
+      "description": "Blog post about tech",
+      "imageUrl": "https://picsum.photos/seed/luk4/800/600",
+      "imageHint": "future technology"
+    },
+    {
+      "id": "blog-2",
+      "description": "Next.js performance blog",
+      "imageUrl": "https://picsum.photos/seed/luk20/800/600",
+      "imageHint": "web development"
+    },
+    {
+      "id": "blog-3",
+      "description": "AI Ethics blog",
+      "imageUrl": "https://picsum.photos/seed/luk21/800/600",
+      "imageHint": "ethics ai"
+    },
+    {
+      "id": "research-1",
+      "description": "LLM Fine-tuning paper",
+      "imageUrl": "https://picsum.photos/seed/luk5/400/600",
+      "imageHint": "scientific paper"
+    },
+    {
+      "id": "research-2",
+      "description": "Sustainable development paper",
+      "imageUrl": "https://picsum.photos/seed/luk30/400/600",
+      "imageHint": "sustainability research"
+    },
+    {
+      "id": "research-3",
+      "description": "Robotics in banking paper",
+      "imageUrl": "https://picsum.photos/seed/luk31/400/600",
+      "imageHint": "banking technology"
+    }
+  ]
+}
